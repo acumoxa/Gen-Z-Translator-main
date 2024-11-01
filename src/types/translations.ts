@@ -1,0 +1,1 @@
+export type Generation = 'genz' | 'millennial' | 'genx' | 'boomer' | 'gena';
